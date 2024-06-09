@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Akanksha Konar</h1>
 <h3 align="center">A passionate fullstack developer from India</h3>
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Feduardofiorini&psig=AOvVaw0zeCKD7-b2_ADU4kbZIGMk&ust=1718047271779000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCLCV58ifz4YDFQAAAAAdAAAAABAE" alt="coding" title="coding">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akankshakonar&label=Profile%20views&color=0e75b6&style=flat" alt="akankshakonar" /> </p>
 
 - 🔭 I’m currently working on [Strongside](strongside.app)
