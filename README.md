@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on [Strongside](strongside.app)
 
-- 🌱 I’m currently learning **Angular 17 Standalone. Store Procedure in SQL.**
+- 🌱 I’m currently learning **Identity Framework**
 
 - 📫 How to reach me **akankshakonar65@gmail.com**
 
